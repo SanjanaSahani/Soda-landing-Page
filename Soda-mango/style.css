@@ -1,0 +1,475 @@
+/* for header  */
+.navbar{
+    position: absolute;
+    left: 50%;
+    display: flex;
+    
+}
+.navbar li{
+    list-style: none;
+    font-size: 25px;
+    margin-right: 34px;
+    padding: 25px;
+    
+}
+.navbar li a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+.navbar li a:hover{
+    color: rgb(38, 218, 32);
+} 
+
+/* for progress bar  */
+
+
+/* for mango  */
+
+.img1 img{
+    height: 430px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.img2 img{
+    height: 450px;
+    position: absolute;
+    top: 28%;
+    left: 0%;
+}
+.para{
+    position: absolute;
+    top: 30%;
+    left: 17%;
+    color: #fff;
+    opacity: 0;
+    transition: opacity 2s;
+
+}
+.show{
+    opacity: 1;
+}
+
+.para h1{
+    font-size: 30px;
+    padding-left:74px ;
+}
+.para p{
+    width: 397px;
+    font-size: 20px;
+    text-align: -webkit-center;
+}
+.para button{
+    color: #fff;
+    margin-left: 30%;
+    height: 35px;
+    width: 120px;
+    background: rgb(2, 170, 2);
+    border: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.para button:hover{
+    background: green;
+}
+
+.img3 img{
+    position: absolute;
+    top: 15%;
+    left: 59%;
+    height: 500px;
+}
+.img4 img{
+    position: absolute;
+    top: -7%;
+    left: 72%;
+    height: 321px;
+}
+.img5 img{
+    position: absolute;
+    top: 17%;
+    left: 65%;
+    height: 100px;
+}
+.img6 img{
+    position: absolute;
+    top: 42%;
+    left: 57%;
+    height: 160px;
+}
+.img7 img{
+    position: absolute;
+    top: 61%;
+    left: 57%;
+    height: 240px;
+}
+.img8 img{
+    position: absolute;
+    top: 10%;
+    left: 65%;
+    height: 440px;
+}
+.img14 img{
+    position: absolute;
+    top: 15%;
+    left: 55%;
+    height: 500px;
+}
+
+.hidden{
+    opacity: 0;
+    transition: opacity 2s;
+}
+.display{
+    opacity: 1;
+}
+
+/* for strawberry  */
+
+.img11 img{
+    height: 320px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.img22 img{
+    height: 300px;
+    position: absolute;
+    top: 52%;
+    left: 1%;
+}
+.img222 img{
+    height: 400px;
+    position: absolute;
+    top: 36%;
+    left: 0%;
+}
+.para12{
+    position: absolute;
+    top: 30%;
+    left: 17%;
+    color: #fff;
+    opacity: 0;
+    transition: opacity 2s;
+
+}
+.show2{
+    opacity: 1;
+}
+
+.para12 h1{
+    font-size: 30px;
+    padding-left:74px ;
+}
+.para12 p{
+    width: 397px;
+    font-size: 20px;
+    text-align: -webkit-center;
+}
+.para12 button{
+    color: #fff;
+    margin-left: 30%;
+    height: 35px;
+    width: 120px;
+    background: rgb(2, 170, 2);
+    border: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.para12 button:hover{
+    background: green;
+}
+.img33 img{
+    position: absolute;
+    top: 15%;
+    left: 55%;
+    height: 531px;
+}
+.img44 img{
+    position: absolute;
+    top: 16%;
+    left: 63%;
+    height: 163px;
+}
+.img55 img{
+    position: absolute;
+    top: 12%;
+    left: 61%;
+    height: 105px;
+    filter: brightness();
+}
+.img66 img{
+    position: absolute;
+    top: 18%;
+    left: 78%;
+    height: 160px;
+}
+.img77 img{
+    position: absolute;
+    top: 55%;
+    left: 54%;
+    height: 153px;
+}
+.img88 img{
+    position: absolute;
+    top: 66%;
+    left: 75%;
+    height: 170px;
+}
+.img99 img{
+    position: absolute;
+    top: 39%;
+    left: 73%;
+    height: 170px;
+    filter: opacity(0.5);
+}
+.img144 img{
+    position: absolute;
+    top: 15%;
+    left: 67%;
+    height: 500px;
+}
+.hidden2{
+    opacity: 0;
+    transition: opacity 2s;
+}
+.display2{
+    opacity: 1;
+}
+
+/* for lemon  */
+
+.img111 img{
+    height: 320px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.img222 img{
+    height: 300px;
+    position: absolute;
+    top: 52%;
+    left: 0%;
+}
+.img2222 img{
+    height: 400px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+.para123{
+    position: absolute;
+    top: 30%;
+    left: 17%;
+    color: #fff;
+    opacity: 0;
+    transition: opacity 2s;
+
+}
+.show3{
+    opacity: 1;
+}
+
+.para123 h1{
+    font-size: 30px;
+    padding-left:74px ;
+}
+.para123 p{
+    width: 397px;
+    font-size: 20px;
+    text-align: -webkit-center;
+}
+.para123 button{
+    color: #fff;
+    margin-left: 30%;
+    height: 35px;
+    width: 120px;
+    background: rgb(2, 170, 2);
+    border: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.para123 button:hover{
+    background: green;
+}
+.img333 img{
+    position: absolute;
+    top: 15%;
+    left: 55%;
+    height: 531px;
+}
+.img444 img{
+    position: absolute;
+    top: 26%;
+    left: 62%;
+    height: 200px;
+}
+
+.img555 img{
+    position: absolute;
+    top: 14%;
+    left: 74%;
+    height: 160px;
+}
+.img666 img{
+    position: absolute;
+    top: 70%;
+    left: 77%;
+    height: 153px;
+}
+.img777 img{
+    position: absolute;
+    top: 67%;
+    left: 60%;
+    height: 170px;
+    filter: brightness();
+}
+.img1444 img{
+    position: absolute;
+    top: 15%;
+    left: 55%;
+    height: 500px;
+}
+
+.hidden3{
+    opacity: 0;
+    transition: opacity 2s;
+}
+.display3{
+    opacity: 1;
+}
+
+/* for blueberry  */
+
+
+.img1111 img{
+    height: 450px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.img2222 img{
+    height: 300px;
+    position: absolute;
+    top: 52%;
+    left: 0%;
+}
+.para1234{
+    position: absolute;
+    top: 30%;
+    left: 17%;
+    color: #fff;
+    opacity: 0;
+    transition: opacity 2s;
+
+}
+.show4{
+    opacity: 1;
+}
+
+
+.para1234 h1{
+    font-size: 30px;
+    padding-left:74px ;
+}
+.para1234 p{
+    width: 397px;
+    font-size: 20px;
+    text-align: -webkit-center;
+}
+.para1234 button{
+    color: #fff;
+    margin-left: 30%;
+    height: 35px;
+    width: 120px;
+    background: rgb(2, 170, 2);
+    border: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.para1234 button:hover{
+    background: green;
+}
+.img3333 img{
+    position: absolute;
+    top: 15%;
+    left: 55%;
+    height: 531px;
+}
+.img4444 img{
+    position: absolute;
+    top: 26%;
+    left: 58%;
+    height: 200px;
+}
+
+.img5555 img{
+    position: absolute;
+    top: 7%;
+    left: 71%;
+    height: 160px;
+}
+.img6666 img{
+    position: absolute;
+    top: 63%;
+    left: 75%;
+    height: 185px;
+}
+.img7777 img{
+    position: absolute;
+    top: 67%;
+    left: 58%;
+    height: 170px;
+    filter: brightness();
+}
+.img1415 img{
+    position: absolute;
+    top: 15%;
+    left: 59%;
+    height: 450px;
+}
+.hidden4{
+    opacity: 0;
+    transition: opacity 2s;
+}
+.display4{
+    opacity: 1;
+}
+
+
+/* for nav  */
+
+.slide{
+    width: 100%;
+    height: 100%;
+    transition: 1s;
+    position: absolute;
+}
+.nav{
+    text-align: center;
+    margin-top: 15px;
+}
+.nav1{
+    border-radius: 50%;
+    border: 2px solid gainsboro;
+    color: #fff;
+    background-color:transparent;
+    font-size: 25px;
+    padding: 5px;
+    position: absolute;
+    top: 50%; 
+    left: 5%;
+}
+.nav2{
+    border-radius: 50%;
+    border: 2px solid gainsboro;
+    color: #fff;
+    background-color:transparent;
+    font-size: 25px;
+    padding: 5px;
+    position: absolute;
+    top: 50%;
+    left: 94%; 
+}
